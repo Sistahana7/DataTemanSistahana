@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DataTemanSistahana</string>
+    <string name="fm_teman">BERIKUT INI TAMPILAN FRAGMENT TEMAN</string>
+    <string name="fm_github">BERIKUT INI TAMPILAN FRAGMENT GITHUB</string>
+    <string name="fm_profil">BERIKUT INI TAMPILAN FRAGMENT PROFIL</string>
+</resources>
